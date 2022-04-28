@@ -1,0 +1,79 @@
+.container {
+    width: 80vw;
+    height: 92.5vh;
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+  }
+.box{
+    width: 612px;
+    height: 773px;
+}
+
+  .quadro1{
+    border: 5px solid black;
+    width: 879px;
+    height: 386px;
+    display: flex;
+  }
+
+  .quadro2{
+    border: 5px solid black;
+    width: 879px;
+    height: 341px;
+    display: flex;
+  }
+  
+  .quadro3{
+    border: 5px solid black;
+    width: 879px;
+    height: 410px;
+    display: flex;
+  }
+
+  .text1{
+    position: absolute;
+    text-align: center;
+    top: 65px;
+    width: 245px;
+    line-height: 25px;
+    height: 30px;
+  }
+
+  .text2{
+    position: absolute;
+    text-align: center;
+    top: 455px;
+    width: 385px;
+    line-height: 25px;
+    height: 30px;
+  }
+
+  .text3{
+    position: absolute;
+    text-align: center;
+    top: 520px;
+    width: 1295px;
+    line-height: 25px;
+    height: 30px;
+  }
+
+  .text4{
+    position: absolute;
+    text-align: center;
+    top: 855px;
+    width: 295px;
+    line-height: 25px;
+    height: 30px;
+  }
+
+  .text5{
+    position: absolute;
+    text-align: center;
+    top: 800px;
+    width: 935px;
+    line-height: 25px;
+    height: 30px;
+  }
